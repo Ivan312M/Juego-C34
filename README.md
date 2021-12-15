@@ -1,1 +1,1 @@
-# Juego-C34
+Plantilla del código C34
